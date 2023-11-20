@@ -9,7 +9,7 @@ body {
 }
 
 .title {
-    color: #1d84c7;
+    color: hsla(241, 72%, 37%, 0.836);
 }
 
 .links, .description, .ingredients, .steps{
