@@ -17,3 +17,9 @@ body {
     font-size: larger;
     line-height: 0.8cm;
 }
+
+.image-container{
+    display: flex;
+    justify-content: center;
+}
+
