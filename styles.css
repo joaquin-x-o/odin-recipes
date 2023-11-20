@@ -18,6 +18,14 @@ body {
     line-height: 0.8cm;
 }
 
+.links, .description, .ingredients{
+    list-style:none;
+}
+
+.steps{
+    text-align: justify;
+}
+
 .image-container{
     display: flex;
     justify-content: center;
