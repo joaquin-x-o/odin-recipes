@@ -9,7 +9,7 @@ body {
 }
 
 .title {
-    color: hsla(241, 72%, 37%, 0.836);
+    color: #1c1aa3d5
 }
 
 .links, .description, .ingredients, .steps{
@@ -31,3 +31,32 @@ body {
     justify-content: center;
 }
 
+.links li{
+    display: inline-block;
+    padding: 35px;
+}
+
+.links li a{
+    text-decoration: none;
+   
+}
+
+.links li a:visited{
+    color: rgb(255, 0, 0);
+}
+
+.links li a:hover{
+    color: white;
+    background-color:#1c1aa3d5;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.backtext a {
+    text-decoration: none;
+    color:#1c1aa3d5;
+}
+
+.backtext a:visited {
+    color: rgb(255, 0, 0);
+} 
